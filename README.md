@@ -16,4 +16,3 @@ This plugin adds ability to post tenders, showcase them on the front end and all
 * Allows management of tenders as posts in WordPress back-end
 * Front-end users can see and apply for tenders
 * Tender applications submitted are visible and manageable in the back-end
-# tenders

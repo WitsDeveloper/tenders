@@ -1,0 +1,8 @@
+.post-type-tenders_applications #post-body-content {
+	display:none;
+}
+.post-type-tenders_applications .tender-title {
+	font-size:18px !important;
+	font-weight:700 !important;
+	padding:8px 0 !important;	
+}
